@@ -1,3 +1,3 @@
 # HelloWorld
-##You know what:
+## You know what
 `This is a line for code`
