@@ -22,3 +22,4 @@ for(var exKey in jsonContent) {
 
 console.log("\nJson length: " + jsonContent.length());
 // console.log("\nJson length: " + Object.keys(jsonContent).length);
+//Second issue there
